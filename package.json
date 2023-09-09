@@ -1,0 +1,23 @@
+{
+  "name": "test.lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dorjee9/test.lambda.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dorjee9/test.lambda/issues"
+  },
+  "homepage": "https://github.com/dorjee9/test.lambda#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
